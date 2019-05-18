@@ -8,4 +8,6 @@
 
 ![截图](Screenshots.png)
 
+![截图](Screenshots.png)
+
 好用帮忙点颗星
